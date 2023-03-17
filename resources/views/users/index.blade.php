@@ -20,7 +20,7 @@
                 <div class="table-responsive col-xs-12 col-sm-12 col-md-12">
                     <table class="table table-hover" id="dataTable" width="100%" cellspacing="0">
                         <tr>
-                            <th>No</th>
+                            <th>#</th>
                             <th>Name</th>
                             <th>Username</th>
                             <th>Email</th>
